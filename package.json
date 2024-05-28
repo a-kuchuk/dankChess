@@ -1,0 +1,23 @@
+{
+  "name": "dankchess",
+  "version": "1.0.0",
+  "description": "funny ahh chess app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-kuchuk/dankChess.git"
+  },
+  "author": "Andrea Kuchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-kuchuk/dankChess/issues"
+  },
+  "homepage": "https://github.com/a-kuchuk/dankChess#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
